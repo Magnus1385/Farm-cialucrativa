@@ -53,7 +53,7 @@ const PricingFooter = () => {
 
                         {/* Botão CTA */}
                         <a
-                            href="https://pay.kiwify.com.br/GBtiUna"
+                            href="https://pay.hotmart.com/W103593132Q?checkoutMode=10"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="block w-full bg-blue-700 hover:bg-blue-800 text-white font-black py-6 px-12 rounded-full text-2xl shadow-2xl hover:scale-105 transition-all duration-300 mb-6 no-underline"
