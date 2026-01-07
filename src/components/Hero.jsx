@@ -26,7 +26,7 @@ const Hero = () => {
                             transition={{ duration: 0.8, delay: 0.2 }}
                             className="text-slate-700 text-xl md:text-2xl font-medium mb-8 leading-relaxed"
                         >
-                            Como transformar Atendimento em lucro, evitar erros no balcão e vender com segurança
+                            Veja as vendas no seu balcão mudarem em 7 dias ou devolvemos o seu dinheiro.
                         </motion.p>
 
                         {/* Value Props - 3 colunas em linha */}
